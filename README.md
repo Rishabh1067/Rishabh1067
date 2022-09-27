@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rishabh1067
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me rathorerishabh1067@gmail.com
 
 <!---
